@@ -28,8 +28,6 @@ fetch('http://jsonplaceholder.typicode.com/posts',{method:'GET'})
 
 console.log('a分支修改的内容')
 
-console.log('c分支修改的内容')
-
 </script>
 
 <style></style>
